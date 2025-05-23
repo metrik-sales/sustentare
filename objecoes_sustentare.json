@@ -1,0 +1,42 @@
+[
+  {
+    "gatilho": "está caro",
+    "resposta": "Entendo. Posso te mostrar tudo que está incluso no protocolo? Você vai perceber que é mais investimento do que gasto. Quer que eu te mostre?"
+  },
+  {
+    "gatilho": "já tentei de tudo",
+    "resposta": "Você não está sozinha. Muitos que passaram por aqui também estavam assim. Nosso diferencial é ir na causa raiz. Quer descobrir isso junto comigo?"
+  },
+  {
+    "gatilho": "preciso pensar",
+    "resposta": "Claro. Só me diga: o que mudaria se você decidisse hoje? Posso te mandar um conteúdo leve pra te ajudar nessa decisão?"
+  },
+  {
+    "gatilho": "não tenho tempo",
+    "resposta": "É justamente por isso que seu cuidado precisa ser prioridade. Quer que eu te mostre como adaptar o protocolo à sua rotina?"
+  },
+  {
+    "gatilho": "prefiro algo natural",
+    "resposta": "Perfeito! Trabalhamos com terapias 100% naturais e regenerativas. Quer conhecer o protocolo mais indicado pra você?"
+  },
+  {
+    "gatilho": "não sei se funciona pra mim",
+    "resposta": "Essa dúvida é comum. Mas posso te mostrar relatos de quem também achava isso e teve ótimos resultados. Posso te enviar?"
+  },
+  {
+    "gatilho": "é muito protocolo",
+    "resposta": "A gente adapta tudo ao seu ritmo. Posso montar um plano leve e progressivo pra você?"
+  },
+  {
+    "gatilho": "vou ver com meu marido",
+    "resposta": "Claro. Mas e se você fosse sua prioridade agora? Posso te ajudar a explicar pra ele os benefícios?"
+  },
+  {
+    "gatilho": "não tenho dinheiro agora",
+    "resposta": "Posso te ajudar a começar com algo acessível e eficaz. Quer que eu te mostre uma entrada leve?"
+  },
+  {
+    "gatilho": "vou esperar um pouco",
+    "resposta": "Tudo bem! Só me deixa te mostrar por que esperar pode sair mais caro. Posso te mostrar isso com calma?"
+  }
+]
