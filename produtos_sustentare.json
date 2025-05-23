@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Alcanox",
+        "valor": "R$298",
+        "descricao": "Disco portátil de hidrogênio molecular.",
+        "beneficio": "Água alcalina e antioxidante por 6 meses.",
+        "destaque": "Desinflama, energiza e melhora imunidade."
+    },
+    {
+        "nome": "AlcalineLitho",
+        "valor": "R$180",
+        "descricao": "Cápsulas com minerais e algas marinhas.",
+        "beneficio": "Alcaliniza, fortalece ossos e desinflama.",
+        "destaque": "100% natural, vegano, sem glúten ou lactose."
+    },
+    {
+        "nome": "Spray Nasal Ozonizado",
+        "valor": "R$85",
+        "descricao": "Spray nasal com óleo ozonizado.",
+        "beneficio": "Combate rinite, sinusite e alergias.",
+        "destaque": "Natural, sem corticoides ou químicos agressivos."
+    },
+    {
+        "nome": "Dorinativa Cápsulas",
+        "valor": "R$120",
+        "descricao": "Cápsulas para dor, ansiedade e sono.",
+        "beneficio": "Analgésico natural e relaxante.",
+        "destaque": "100% natural, sem dependência."
+    },
+    {
+        "nome": "Mahalo Pulseira Bioquântica",
+        "valor": "R$250",
+        "descricao": "Pulseira com frequências bioquânticas.",
+        "beneficio": "Equilibra energia, reduz estresse.",
+        "destaque": "Usável 24h, ideal para todos os públicos."
+    }
+]
