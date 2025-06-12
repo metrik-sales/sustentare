@@ -1,0 +1,30 @@
+{
+  "Apiterapia": [
+    {
+      "nome": "Xarope Tosse",
+      "quantidade": "500ml",
+      "preço": "98",
+      "descrição": "Alívio natural da tosse e desconfortos respiratórios.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Lá você pode adquirir o Xarope Tosse que alivia os desconfortos respiratórios de forma natural! Se tiver alguma dúvida, estamos à disposição. Namastê 🙏",
+      "indicações": [
+        "Pessoas com tosse persistente ou resfriados",
+        "Indivíduos buscando alívio natural para sintomas respiratórios",
+        "Pacientes que preferem tratamentos com ingredientes naturais"
+      ],
+      "promoções": ""
+    },
+    {
+      "nome": "Extrato de Própolis Vermelha",
+      "quantidade": "30ml",
+      "preço": "75",
+      "descrição": "Imunidade fortalecida com ação antioxidante potente.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Lá você pode adquirir o Extrato de Própolis Vermelha que fortalece sua imunidade com ação antioxidante! Se tiver alguma dúvida, estamos à disposição para ajudar no que precisar! Namastê 🙏",
+      "indicações": [
+        "Pessoas com infecções respiratórias ou garganta inflamada",
+        "Indivíduos buscando fortalecer o sistema imunológico",
+        "Pacientes que desejam propriedades antimicrobianas naturais"
+      ],
+      "promoções": ""
+    }
+  ]
+}
