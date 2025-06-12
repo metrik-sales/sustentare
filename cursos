@@ -1,0 +1,72 @@
+[
+  {
+    "curso": "Laser Microvasos (Restauria)",
+    "modalidade": "Online ou presencial",
+    "carga_horaria": null,
+    "valor": null,
+    "observacoes": "Prática disponível. Encaminhar para atendimento."
+  },
+  {
+    "curso": "Terapia de Von Ardenne",
+    "modalidade": "100% online",
+    "carga_horaria": null,
+    "valor": null,
+    "observacoes": "Curso certificado. Passar link para a pessoa."
+  },
+  {
+    "curso": "Ozonioterapia",
+    "modalidade": "Online com prática",
+    "carga_horaria": null,
+    "valor": null,
+    "observacoes": "Passar link do curso. Para prática, encaminhar atendimento."
+  },
+  {
+    "curso": "PRP Chancelado com Ozônio",
+    "modalidade": "Presencial exclusivo",
+    "carga_horaria": null,
+    "valor": null,
+    "observacoes": ""
+  },
+  {
+    "curso": "Soroterapia",
+    "modalidade": "Online",
+    "carga_horaria": "18h",
+    "valor": 497,
+    "observacoes": ""
+  },
+  {
+    "curso": "Soroterapia e Intradermoterapia",
+    "modalidade": "Presencial",
+    "carga_horaria": "10h",
+    "valor": 1900,
+    "observacoes": "A combinar 1 terça-feira das 10h às 20h"
+  },
+  {
+    "curso": "Intradermoterapia com ênfase em Endocrinologia para Fisioterapeutas",
+    "modalidade": "Híbrido (40% online, 60% presencial e supervisionada)",
+    "carga_horaria": "30h",
+    "valor": 5000,
+    "observacoes": "Chancelado pelo COFFITO"
+  },
+  {
+    "curso": "Microvasos Curso",
+    "modalidade": null,
+    "carga_horaria": null,
+    "valor": 530,
+    "observacoes": "Aprenda a tratar vasinhos com laser de forma prática e segura."
+  },
+  {
+    "curso": "Curso Terapia de Von Ardenne",
+    "modalidade": null,
+    "carga_horaria": null,
+    "valor": null,
+    "observacoes": "Aprenda a terapia alemã que ativa mitocôndrias e previne doenças."
+  },
+  {
+    "curso": "Curso PRP com Registro COFFITO",
+    "modalidade": null,
+    "carga_horaria": null,
+    "valor": null,
+    "observacoes": "Capacitação autorizada para fisioterapeutas aplicarem PRP com segurança."
+  }
+]
