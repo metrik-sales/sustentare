@@ -1,1 +1,95 @@
-
+ {
+  "Suplementos e Fitoterápicos": [
+    {
+      "nome": "Vitamina K2 (MK7)",
+      "quantidade": "10ml",
+      "preço": "80",
+      "descrição": "Favorece ossos e vasos com alta absorção de K2 MK7.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Lá você pode adquirir o produto que favorece ossos e vasos com alta absorção! Qualquer dúvida, estamos à disposição. Namastê 🙏",
+      "indicações": [
+        "Pessoas com necessidade de suporte cardiovascular e ósseo",
+        "Indivíduos com deficiência de vitamina K ou uso de anticoagulantes",
+        "Pacientes buscando melhora na saúde vascular e prevenção de calcificações"
+      ],
+      "promoções": ""
+    },
+    {
+      "nome": "Vitamina D 10.000UI",
+      "quantidade": "10ml",
+      "preço": "50",
+      "descrição": "Vitamina D potente para imunidade e saúde óssea.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Lá você pode adquirir a vitamina D que fortalece imunidade e ossos! Qualquer dúvida, estamos à disposição. Namastê 🙏",
+      "indicações": [
+        "Pessoas com deficiência de vitamina D, especialmente idosos e sedentários",
+        "Indivíduos com risco de osteoporose ou baixa imunidade",
+        "Pacientes que precisam fortalecer ossos e sistema imune"
+      ],
+      "promoções": ""
+    },
+    {
+      "nome": "Pool Lugol cápsulas",
+      "quantidade": "30 cápsulas",
+      "preço": "35",
+      "descrição": "Iodo e selênio em cápsulas para suporte tireoidiano.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Lá você pode adquirir esse suplemento para saúde da tireoide e detox! Qualquer dúvida, estamos à disposição. Namastê 🙏",
+      "indicações": [
+        "Indivíduos com deficiência de iodo",
+        "Pacientes com problemas tireoidianos ou metabolismo lento",
+        "Pessoas que buscam suporte para desintoxicação e imunidade"
+      ],
+      "promoções": ""
+    },
+    {
+      "nome": "Pool de Probióticos",
+      "quantidade": "60 cápsulas",
+      "preço": "180",
+      "descrição": "Reforça a flora intestinal com cepas benéficas.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Compre seu probiótico para reforçar sua flora intestinal com cepas benéficas! Qualquer dúvida, estamos à disposição. Namastê 🙏",
+      "indicações": [
+        "Pessoas com disbiose intestinal ou problemas digestivos",
+        "Indivíduos que usam antibióticos ou têm baixa imunidade",
+        "Quem busca melhora da saúde intestinal e absorção de nutrientes"
+      ],
+      "promoções": ""
+    },
+    {
+      "nome": "Chlorella",
+      "quantidade": "60 cápsulas",
+      "preço": "98",
+      "descrição": "Desintoxica e fortalece com ação clorofilada.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Adquira sua Chlorella e fortaleça seu sistema com desintoxicação clorofilada!",
+      "indicações": [
+        "Indivíduos buscando desintoxicação e melhora do sistema imune",
+        "Pessoas com deficiências nutricionais e fadiga crônica",
+        "Quem quer antioxidantes naturais e suporte na digestão"
+      ],
+      "promoções": ""
+    },
+    {
+      "nome": "Oxy Colon",
+      "quantidade": "60 cápsulas",
+      "preço": "95",
+      "descrição": "Laxativo natural para limpeza intestinal profunda.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Oxy Colon: limpeza intestinal profunda de forma natural. Clique e adquira.",
+      "indicações": [
+        "Pessoas com constipação intestinal e má digestão",
+        "Indivíduos buscando limpeza e desintoxicação do cólon",
+        "Quem precisa de suporte para saúde intestinal e equilíbrio"
+      ],
+      "promoções": ""
+    },
+    {
+      "nome": "Pool de Magnésio Three",
+      "quantidade": "90 cápsulas",
+      "preço": "132",
+      "descrição": "Magnésio em três formas para múltiplos benefícios.",
+      "oferta": "📦 Aqui está o link do nosso site 👉: https://www.institutosustentare.com.br/ — Pool de Magnésio: suporte completo para nervos e músculos.",
+      "indicações": [
+        "Indivíduos com cãibras musculares e fadiga",
+        "Pessoas que praticam atividades físicas intensas",
+        "Quem precisa de suporte para sistema nervoso e muscular"
+      ],
+      "promoções": ""
+    }
+  ]
+}
