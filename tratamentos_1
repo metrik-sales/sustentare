@@ -2,106 +2,156 @@
   {
     "nome_do_tratamento": "Dor crônica",
     "beneficios": "Alívio sem remédios com técnicas integrativas",
-    "indicacoes": "Dores persistentes, artrite, tensão muscular"
+    "indicacoes": "Dores persistentes, artrite, tensão muscular",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
   },
   {
     "nome_do_tratamento": "Oncológico",
     "beneficios": "Apoio terapêutico com foco na imunidade",
-    "indicacoes": "Pacientes em tratamento contra o câncer"
+    "indicacoes": "Pacientes em tratamento contra o câncer",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
   },
   {
     "nome_do_tratamento": "Cannabis Medicinal",
     "beneficios": "Prescrição individualizada para equilíbrio sistêmico",
-    "indicacoes": "Dor crônica, ansiedade, insônia"
+    "indicacoes": "Dor crônica, ansiedade, insônia",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
+
   },
   {
     "nome_do_tratamento": "Neuromodulação não invasiva",
     "beneficios": "Regula mente e corpo sem choques",
-    "indicacoes": "Ansiedade, depressão, insônia"
+    "indicacoes": "Ansiedade, depressão, insônia",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
   },
   {
     "nome_do_tratamento": "Candidíase / Endometriose / Herpes",
     "beneficios": "Tratamento natural e integrativo",
-    "indicacoes": "Infecções recorrentes, dor pélvica"
+    "indicacoes": "Infecções recorrentes, dor pélvica",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
+
   },
   {
     "nome_do_tratamento": "Fibromialgia",
     "beneficios": "Reduz dores e melhora o sono",
-    "indicacoes": "Fadiga crônica, dor difusa, distúrbios do sono"
+    "indicacoes": "Fadiga crônica, dor difusa, distúrbios do sono",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
+
   },
   {
     "nome_do_tratamento": "Detox / Quelação / Desparasitação",
     "beneficios": "Limpeza profunda do organismo",
-    "indicacoes": "Metais pesados, toxinas, parasitas"
+    "indicacoes": "Metais pesados, toxinas, parasitas",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
   },
   {
     "nome_do_tratamento": "ILIB / Bioaterramento / LED vermelho",
     "beneficios": "Terapias regenerativas e anti-inflamatórias",
-    "indicacoes": "Inflamações, dores, regeneração celular"
+    "indicacoes": "Inflamações, dores, regeneração celular",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
   },
   {
     "nome_do_tratamento": "Frequências (quântica, música, bineurais)",
     "beneficios": "Restaura o campo vibracional",
-    "indicacoes": "Estresse, insônia, desequilíbrio emocional"
+    "indicacoes": "Estresse, insônia, desequilíbrio emocional",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
   },
   {
     "nome_do_tratamento": "Reabilitação Intestinal",
     "beneficios": "Restaura o intestino e melhora imunidade",
-    "indicacoes": "Síndrome do intestino irritável, disbiose"
+    "indicacoes": "Síndrome do intestino irritável, disbiose",
+    "valor": "É um tratamento direcionado, valor definido em consulta"
   },
   {
     "nome_do_tratamento": "Nanotecnologia Injetável Ortomolecular",
     "beneficios": "Alta absorção de nutrientes com efeito rápido",
-    "indicacoes": "Deficiências vitamínicas, fadiga"
+    "indicacoes": "Deficiências vitamínicas, fadiga",
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Reposição de Vitaminas Injetáveis",
     "beneficios": "Mais energia e imunidade com aplicação direta",
-    "indicacoes": "Cansaço, baixa imunidade, estresse"
+    "indicacoes": "Cansaço, baixa imunidade, estresse",
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Ozonioterapia",
     "beneficios": "Anti-inflamatório com efeito detox",
-    "indicacoes": "Doenças inflamatórias, dores, infecções"
+    "indicacoes": "Doenças inflamatórias, dores, infecções",
+    "valor_sessão": "260",
+    "valor_consulta: "530"
   },
   {
     "nome_do_tratamento": "Terapia Neural",
     "beneficios": "Regula o sistema nervoso e alivia dores",
-    "indicacoes": "Neuralgia, enxaqueca, dor crônica"
+    "indicacoes": "Neuralgia, enxaqueca, dor crônica",
+    "valor": "380"
+
   },
   {
     "nome_do_tratamento": "Aparelhos Terapêuticos",
     "beneficios": "Detox e equilíbrio energético com tecnologia",
-    "indicacoes": "Cansaço, toxinas, baixa vitalidade"
+    "indicacoes": "Cansaço, toxinas, baixa vitalidade",
+    "valor": "260"
   },
   {
     "nome_do_tratamento": "Hidrogênio Molecular",
     "beneficios": "Antioxidante potente para prevenção e tratamento",
-    "indicacoes": "Estresse oxidativo, inflamação, envelhecimento"
+    "indicacoes": "Estresse oxidativo, inflamação, envelhecimento",
+    "valor": "440"
   },
   {
     "nome_do_tratamento": "Protocolo BioRegenere",
     "beneficios": "Revitalização celular com foco em longevidade",
-    "indicacoes": "Envelhecimento precoce, baixa energia"
+    "indicacoes": "Envelhecimento precoce, baixa energia",
+    "valor": "440"
   },
   {
     "nome_do_tratamento": "Neuromodulação",
     "beneficios": "Equilíbrio cerebral sem medicação",
     "indicacoes": "Ansiedade, TDAH, dores de cabeça"
+    "valor": "440"
   },
   {
     "nome_do_tratamento": "Intolerância Alimentar (Exame)",
     "beneficios": "Identifica alimentos inflamatórios",
     "indicacoes": "Desconfortos digestivos, alergias, inflamações"
+    "valor": "800"
   },
   {
     "nome_do_tratamento": "Glutationa para Parkinson",
     "beneficios": "Neuroproteção com antioxidante potente",
     "indicacoes": "Parkinson, doenças neurodegenerativas"
+    "valor": "620"
   },
   {
     "nome_do_tratamento": "Exossomos Autólogos",
     "beneficios": "Regeneração celular com alta tecnologia",
     "indicacoes": "Doenças autoimunes, rejuvenescimento"
+    "valor": "5500"
+  }
+  {
+    "nome_do_tratamento": "Consulta Ortomolecular",
+    "beneficios": "Equilibra o corpo com vitaminas, minerais e antioxidantes",
+    "indicacoes": "Fadiga, desequilíbrios hormonais, imunidade baixa, estresse",
+    "valor": "530"
+  },
+  {
+    "nome_do_tratamento": "Nutricionista Funcional",
+    "beneficios": "Plano alimentar funcional, sem glúten, lactose e açúcar",
+    "indicacoes": "Alergias, distúrbios digestivos, emagrecimento e bem-estar",
+    "valor": "530"
+  },
+  {
+    "nome_do_tratamento": "Neurometria Exame e Tratamento",
+    "beneficios": "Mapeia o cérebro com IA e propõe tratamento em 12 sessões",
+    "indicacoes": "Ansiedade, TDAH, insônia, dores, dificuldades cognitivas",
+    "valor": "440"
+  },
+  {
+    "nome_do_tratamento": "Cura Ativa Mente",
+    "beneficios": "Integra neurociência e espiritualidade para autoconhecimento",
+    "indicacoes": "Crises emocionais, autoconhecimento, bloqueios mentais",
+    "valor": "440"
   }
 ]
