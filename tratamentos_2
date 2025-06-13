@@ -1,0 +1,27 @@
+[
+  {
+    "nome_do_tratamento": "PRP Capilar",
+    "beneficios": "Estimula o crescimento capilar de forma natural",
+    "indicacoes": "Queda de cabelo, calvície inicial"
+  },
+  {
+    "nome_do_tratamento": "PRP Facial",
+    "beneficios": "Rejuvenesce a pele com plasma rico em fatores de crescimento",
+    "indicacoes": "Rugas, flacidez, revitalização facial"
+  },
+  {
+    "nome_do_tratamento": "Laser para Dermatite Ocre",
+    "beneficios": "Clareia manchas escuras nas pernas",
+    "indicacoes": "Dermatite ocre, manchas pós-inflamatórias"
+  },
+  {
+    "nome_do_tratamento": "Laser para Rosácea",
+    "beneficios": "Reduz vermelhidão e fortalece a pele sensível",
+    "indicacoes": "Rosácea, pele avermelhada e inflamada"
+  },
+  {
+    "nome_do_tratamento": "Laser para Poquilodermite",
+    "beneficios": "Melhora manchas e textura do colo e pescoço",
+    "indicacoes": "Poquilodermite, envelhecimento da pele"
+  }
+]
