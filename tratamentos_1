@@ -1,0 +1,107 @@
+[
+  {
+    "nome_do_tratamento": "Dor crônica",
+    "beneficios": "Alívio sem remédios com técnicas integrativas",
+    "indicacoes": "Dores persistentes, artrite, tensão muscular"
+  },
+  {
+    "nome_do_tratamento": "Oncológico",
+    "beneficios": "Apoio terapêutico com foco na imunidade",
+    "indicacoes": "Pacientes em tratamento contra o câncer"
+  },
+  {
+    "nome_do_tratamento": "Cannabis Medicinal",
+    "beneficios": "Prescrição individualizada para equilíbrio sistêmico",
+    "indicacoes": "Dor crônica, ansiedade, insônia"
+  },
+  {
+    "nome_do_tratamento": "Neuromodulação não invasiva",
+    "beneficios": "Regula mente e corpo sem choques",
+    "indicacoes": "Ansiedade, depressão, insônia"
+  },
+  {
+    "nome_do_tratamento": "Candidíase / Endometriose / Herpes",
+    "beneficios": "Tratamento natural e integrativo",
+    "indicacoes": "Infecções recorrentes, dor pélvica"
+  },
+  {
+    "nome_do_tratamento": "Fibromialgia",
+    "beneficios": "Reduz dores e melhora o sono",
+    "indicacoes": "Fadiga crônica, dor difusa, distúrbios do sono"
+  },
+  {
+    "nome_do_tratamento": "Detox / Quelação / Desparasitação",
+    "beneficios": "Limpeza profunda do organismo",
+    "indicacoes": "Metais pesados, toxinas, parasitas"
+  },
+  {
+    "nome_do_tratamento": "ILIB / Bioaterramento / LED vermelho",
+    "beneficios": "Terapias regenerativas e anti-inflamatórias",
+    "indicacoes": "Inflamações, dores, regeneração celular"
+  },
+  {
+    "nome_do_tratamento": "Frequências (quântica, música, bineurais)",
+    "beneficios": "Restaura o campo vibracional",
+    "indicacoes": "Estresse, insônia, desequilíbrio emocional"
+  },
+  {
+    "nome_do_tratamento": "Reabilitação Intestinal",
+    "beneficios": "Restaura o intestino e melhora imunidade",
+    "indicacoes": "Síndrome do intestino irritável, disbiose"
+  },
+  {
+    "nome_do_tratamento": "Nanotecnologia Injetável Ortomolecular",
+    "beneficios": "Alta absorção de nutrientes com efeito rápido",
+    "indicacoes": "Deficiências vitamínicas, fadiga"
+  },
+  {
+    "nome_do_tratamento": "Reposição de Vitaminas Injetáveis",
+    "beneficios": "Mais energia e imunidade com aplicação direta",
+    "indicacoes": "Cansaço, baixa imunidade, estresse"
+  },
+  {
+    "nome_do_tratamento": "Ozonioterapia",
+    "beneficios": "Anti-inflamatório com efeito detox",
+    "indicacoes": "Doenças inflamatórias, dores, infecções"
+  },
+  {
+    "nome_do_tratamento": "Terapia Neural",
+    "beneficios": "Regula o sistema nervoso e alivia dores",
+    "indicacoes": "Neuralgia, enxaqueca, dor crônica"
+  },
+  {
+    "nome_do_tratamento": "Aparelhos Terapêuticos",
+    "beneficios": "Detox e equilíbrio energético com tecnologia",
+    "indicacoes": "Cansaço, toxinas, baixa vitalidade"
+  },
+  {
+    "nome_do_tratamento": "Hidrogênio Molecular",
+    "beneficios": "Antioxidante potente para prevenção e tratamento",
+    "indicacoes": "Estresse oxidativo, inflamação, envelhecimento"
+  },
+  {
+    "nome_do_tratamento": "Protocolo BioRegenere",
+    "beneficios": "Revitalização celular com foco em longevidade",
+    "indicacoes": "Envelhecimento precoce, baixa energia"
+  },
+  {
+    "nome_do_tratamento": "Neuromodulação",
+    "beneficios": "Equilíbrio cerebral sem medicação",
+    "indicacoes": "Ansiedade, TDAH, dores de cabeça"
+  },
+  {
+    "nome_do_tratamento": "Intolerância Alimentar (Exame)",
+    "beneficios": "Identifica alimentos inflamatórios",
+    "indicacoes": "Desconfortos digestivos, alergias, inflamações"
+  },
+  {
+    "nome_do_tratamento": "Glutationa para Parkinson",
+    "beneficios": "Neuroproteção com antioxidante potente",
+    "indicacoes": "Parkinson, doenças neurodegenerativas"
+  },
+  {
+    "nome_do_tratamento": "Exossomos Autólogos",
+    "beneficios": "Regeneração celular com alta tecnologia",
+    "indicacoes": "Doenças autoimunes, rejuvenescimento"
+  }
+]
