@@ -16,7 +16,6 @@
     "beneficios": "Prescrição individualizada para equilíbrio sistêmico",
     "indicacoes": "Dor crônica, ansiedade, insônia",
     "valor": "É um tratamento direcionado, valor definido em consulta"
-
   },
   {
     "nome_do_tratamento": "Neuromodulação não invasiva",
@@ -29,14 +28,12 @@
     "beneficios": "Tratamento natural e integrativo",
     "indicacoes": "Infecções recorrentes, dor pélvica",
     "valor": "É um tratamento direcionado, valor definido em consulta"
-
   },
   {
     "nome_do_tratamento": "Fibromialgia",
     "beneficios": "Reduz dores e melhora o sono",
     "indicacoes": "Fadiga crônica, dor difusa, distúrbios do sono",
     "valor": "É um tratamento direcionado, valor definido em consulta"
-
   },
   {
     "nome_do_tratamento": "Detox / Quelação / Desparasitação",
@@ -78,15 +75,14 @@
     "nome_do_tratamento": "Ozonioterapia",
     "beneficios": "Anti-inflamatório com efeito detox",
     "indicacoes": "Doenças inflamatórias, dores, infecções",
-    "valor_sessão": "260",
-    "valor_consulta: "530"
+    "valor_consulta": "530",
+    "valor_sessao": "260"
   },
   {
     "nome_do_tratamento": "Terapia Neural",
     "beneficios": "Regula o sistema nervoso e alivia dores",
     "indicacoes": "Neuralgia, enxaqueca, dor crônica",
     "valor": "380"
-
   },
   {
     "nome_do_tratamento": "Aparelhos Terapêuticos",
@@ -109,27 +105,27 @@
   {
     "nome_do_tratamento": "Neuromodulação",
     "beneficios": "Equilíbrio cerebral sem medicação",
-    "indicacoes": "Ansiedade, TDAH, dores de cabeça"
+    "indicacoes": "Ansiedade, TDAH, dores de cabeça",
     "valor": "440"
   },
   {
     "nome_do_tratamento": "Intolerância Alimentar (Exame)",
     "beneficios": "Identifica alimentos inflamatórios",
-    "indicacoes": "Desconfortos digestivos, alergias, inflamações"
+    "indicacoes": "Desconfortos digestivos, alergias, inflamações",
     "valor": "800"
   },
   {
     "nome_do_tratamento": "Glutationa para Parkinson",
     "beneficios": "Neuroproteção com antioxidante potente",
-    "indicacoes": "Parkinson, doenças neurodegenerativas"
+    "indicacoes": "Parkinson, doenças neurodegenerativas",
     "valor": "620"
   },
   {
     "nome_do_tratamento": "Exossomos Autólogos",
     "beneficios": "Regeneração celular com alta tecnologia",
-    "indicacoes": "Doenças autoimunes, rejuvenescimento"
+    "indicacoes": "Doenças autoimunes, rejuvenescimento",
     "valor": "5500"
-  }
+  },
   {
     "nome_do_tratamento": "Consulta Ortomolecular",
     "beneficios": "Equilibra o corpo com vitaminas, minerais e antioxidantes",
@@ -155,3 +151,4 @@
     "valor": "440"
   }
 ]
+
