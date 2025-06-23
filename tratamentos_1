@@ -75,80 +75,79 @@
     "nome_do_tratamento": "Ozonioterapia",
     "beneficios": "Anti-inflamatório com efeito detox",
     "indicacoes": "Doenças inflamatórias, dores, infecções",
-    "valor_consulta": "530",
-    "valor_sessao": "260"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Terapia Neural",
     "beneficios": "Regula o sistema nervoso e alivia dores",
     "indicacoes": "Neuralgia, enxaqueca, dor crônica",
-    "valor": "380"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Aparelhos Terapêuticos",
     "beneficios": "Detox e equilíbrio energético com tecnologia",
     "indicacoes": "Cansaço, toxinas, baixa vitalidade",
-    "valor": "260"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Hidrogênio Molecular",
     "beneficios": "Antioxidante potente para prevenção e tratamento",
     "indicacoes": "Estresse oxidativo, inflamação, envelhecimento",
-    "valor": "440"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Protocolo BioRegenere",
     "beneficios": "Revitalização celular com foco em longevidade",
     "indicacoes": "Envelhecimento precoce, baixa energia",
-    "valor": "440"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Neuromodulação",
     "beneficios": "Equilíbrio cerebral sem medicação",
     "indicacoes": "Ansiedade, TDAH, dores de cabeça",
-    "valor": "440"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Intolerância Alimentar (Exame)",
     "beneficios": "Identifica alimentos inflamatórios",
     "indicacoes": "Desconfortos digestivos, alergias, inflamações",
-    "valor": "800"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Glutationa para Parkinson",
     "beneficios": "Neuroproteção com antioxidante potente",
     "indicacoes": "Parkinson, doenças neurodegenerativas",
-    "valor": "620"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Exossomos Autólogos",
     "beneficios": "Regeneração celular com alta tecnologia",
     "indicacoes": "Doenças autoimunes, rejuvenescimento",
-    "valor": "5500"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Consulta Ortomolecular",
     "beneficios": "Equilibra o corpo com vitaminas, minerais e antioxidantes",
     "indicacoes": "Fadiga, desequilíbrios hormonais, imunidade baixa, estresse",
-    "valor": "530"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Nutricionista Funcional",
     "beneficios": "Plano alimentar funcional, sem glúten, lactose e açúcar",
     "indicacoes": "Alergias, distúrbios digestivos, emagrecimento e bem-estar",
-    "valor": "530"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Neurometria Exame e Tratamento",
     "beneficios": "Mapeia o cérebro com IA e propõe tratamento em 12 sessões",
     "indicacoes": "Ansiedade, TDAH, insônia, dores, dificuldades cognitivas",
-    "valor": "440"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   },
   {
     "nome_do_tratamento": "Cura Ativa Mente",
     "beneficios": "Integra neurociência e espiritualidade para autoconhecimento",
     "indicacoes": "Crises emocionais, autoconhecimento, bloqueios mentais",
-    "valor": "440"
+    "valor": "É um tratamento direcionado, valor a ser definido"
   }
 ]
 
